@@ -1,0 +1,10 @@
+# Folders
+venv/
+__pycache__/
+
+
+# Files
+chromedriver
+websites.txt
+.env
+*.log

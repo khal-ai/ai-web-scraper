@@ -1,0 +1,9 @@
+streamlit 
+langchain 
+langchain-openai
+validators
+selenium
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
