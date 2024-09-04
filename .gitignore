@@ -8,3 +8,4 @@ chromedriver
 websites.txt
 .env
 *.log
+.DS_Store
